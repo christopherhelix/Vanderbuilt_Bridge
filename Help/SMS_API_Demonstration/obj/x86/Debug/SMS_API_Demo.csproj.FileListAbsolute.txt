@@ -1,0 +1,10 @@
+C:\Users\vanderbuilt\Desktop\Help\SMS_API_Demonstration\bin\Debug\SMS_API_Demo.exe.config
+C:\Users\vanderbuilt\Desktop\Help\SMS_API_Demonstration\bin\Debug\SMS_API_Demo.exe
+C:\Users\vanderbuilt\Desktop\Help\SMS_API_Demonstration\bin\Debug\SMS_API_Demo.pdb
+C:\Users\vanderbuilt\Desktop\Help\SMS_API_Demonstration\obj\x86\Debug\SMS_API_Demo.RetrieveDeletedDevices.resources
+C:\Users\vanderbuilt\Desktop\Help\SMS_API_Demonstration\obj\x86\Debug\SMS_API_Demo.SMS_API_DemoForm.resources
+C:\Users\vanderbuilt\Desktop\Help\SMS_API_Demonstration\obj\x86\Debug\SMS_API_Demo.Properties.Resources.resources
+C:\Users\vanderbuilt\Desktop\Help\SMS_API_Demonstration\obj\x86\Debug\SMS_API_Demo.csproj.GenerateResource.Cache
+C:\Users\vanderbuilt\Desktop\Help\SMS_API_Demonstration\obj\x86\Debug\SMS_API_Demo.exe
+C:\Users\vanderbuilt\Desktop\Help\SMS_API_Demonstration\obj\x86\Debug\SMS_API_Demo.pdb
+C:\Users\vanderbuilt\Desktop\Help\SMS_API_Demonstration\obj\x86\Debug\SMS_API_Demo.csprojResolveAssemblyReference.cache
